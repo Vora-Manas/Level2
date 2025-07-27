@@ -81,7 +81,6 @@ jsonpointer==3.0.0
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 keras==3.9.0
-kiwisolver==1.4.5
 kubernetes==33.1.0
 langchain==0.3.25
 langchain-community==0.3.25
